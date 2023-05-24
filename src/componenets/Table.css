@@ -1,0 +1,11 @@
+.table {
+  font-size: 20px;
+  /* border-collapse: separate; */
+  border-spacing: 10px 10px;
+}
+
+.rows {
+  padding : 15px;
+  color: green;
+  margin: 15px 0;
+}
