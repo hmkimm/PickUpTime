@@ -37,7 +37,7 @@ function StripedRowExample() {
       <tbody>
         <tr>
           <td>1</td>
-          <td>박경래</td>
+          <td>홍길동</td>
           <td>
             {boardingTime && <span>{boardingTime}</span>}
             <button onClick={handleBoarding}>승차</button>
@@ -64,12 +64,14 @@ function StripedRowExample() {
         <tr>
           <td>2</td>
           <td>Jacob</td>
-          <td>Thornton</td>
-          <td>@fat</td>
+          <td>Jacob</td>
+          <td>Jacob</td>
+       
         </tr>
         <tr>
           <td>3</td>
-          <td colSpan={2}>Larry the Bird</td>
+          <td>@twitter</td>
+          <td>@twitter</td>
           <td>@twitter</td>
         </tr>
       </tbody>
