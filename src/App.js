@@ -1,7 +1,9 @@
+import StripedRowExample from "./componenets/Table";
+
 function App() {
   return (
     <div>
-      hello world
+      <StripedRowExample />
     </div>
   );
 }
